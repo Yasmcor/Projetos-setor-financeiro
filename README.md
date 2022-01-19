@@ -28,7 +28,7 @@ Nesse sentido, quanto mais clientes a sua empresa perde, menos ela consegue cres
   - O recebimento de cédulas falsas é um problema real para as empresas. Todos os anos, o BC retém e tira de circulação centenas de milhares de cédulas falsificadas. Em 2019, foram quase 500 mil notas, que representavam cerca de R$ 32 milhões em “dinheiro” recolhido. Portanto, através deste modelo preditivo, é possivel identificar cédulas falsas e mitigar estes riscos.
 
  
-       [![](https://img.shields.io/badge/-Abrir_Projeto-5276f2)](https://github.com/Yasmcor/Projetos-setor-financeiro/blob/main/Detec%C3%A7%C3%A3o%20de%20c%C3%A9dulas%20falsificadas.py)
+       [![](https://img.shields.io/badge/-Abrir_Projeto-5276f2)](https://github.com/Yasmcor/Projetos-setor-financeiro/blob/main/Detec%C3%A7%C3%A3o%20de%20C%C3%A9dulas%20Falsificadas.py)
 
 
 - Previsão de compra no E-commerce (Em andamento)
