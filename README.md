@@ -21,7 +21,7 @@ Esse repositório contém projetos desenvolvidos especificamente para o setor ba
   -  Churn ou Taxa de Rotatividade, é um indicador calculado de acordo com o número de clientes que deixam sua empresa durante um determinado período. Esta métrica está diretamente relacionada a capacidade do seu negócio de manter clientes próximos e fiéis.
 Nesse sentido, quanto mais clientes a sua empresa perde, menos ela consegue crescer de forma sustentável. Pensando nisso esse projeto analisa possiveis evasões de clientes para que possamos agir previamente e rete-los.
 
-     [![](https://img.shields.io/badge/-Abrir_Projeto-5276f2)](https://github.com/Yasmcor/Projetos-setor-financeiro/blob/main/Previs%C3%A3o%20de%20Churn%20-%20Clientes%20Banco.py)
+     [![](https://img.shields.io/badge/-Abrir_Projeto-5276f2)](https://github.com/Yasmcor/Projetos-setor-financeiro/blob/main/previs%C3%A3o_de_compra_e_commerce_svm.py)
 
 - Detecção de cédulas falsificadas  (Dezembro 2021)
 
