@@ -31,9 +31,11 @@ Nesse sentido, quanto mais clientes a sua empresa perde, menos ela consegue cres
        [![](https://img.shields.io/badge/-Abrir_Projeto-5276f2)](https://github.com/Yasmcor/Projetos-setor-financeiro/blob/main/Detec%C3%A7%C3%A3o%20de%20C%C3%A9dulas%20Falsificadas.py)
 
 
-- Previsão de compra no E-commerce (Em andamento)
+- Previsão de compra no E-commerce (Janeiro 2022)
 
-  - Projeto ainda em processo de construção. 
+  - Na prática empresarial pode-se perceber uma nítida carência de uma análise consistente para a alocação de recursos em Marketing, o que leva a um conservadorismo na maneira como as empresas dividem o orçamento entre suas diferentes marcas, regiões e clientes.
+Otimizar essa alocação é uma tarefa complexa porque os insumos são muitos, e aproveitá-los bem exige pensar na aplicação de todos de forma que a empresa consiga fazer mais com menos.
+
  
  
        [![](https://img.shields.io/badge/-Abrir_Projeto-5276f2)]()
