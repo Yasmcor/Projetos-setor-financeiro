@@ -4,44 +4,96 @@
 </div>
 
 ### BEM-VINDO!
+# 🏦 Data Science & Machine Learning para o Setor Financeiro
 
-Como a tecnologia têm provocado mudanças nos serviços das instituições financeiras, a exploração dos dados pode ajudar a tomarmos decisões estratégicas. 
-A construção deste repositório foi pensada para analisar e validar hipóteses de alguns cenários dentro do setor financeiro. 
+<p align="center">
+  <img src="https://img.shields.io/badge/FinTech-003366?style=for-the-badge&logo=cashapp&logoColor=white" alt="FinTech Badge"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-FFB700?style=for-the-badge&logo=scikit-learn&logoColor=black" alt="ML Badge"/>
+  <img src="https://img.shields.io/badge/Risco%20&%20Fraude-DC143C?style=for-the-badge&logo=secure-shell&logoColor=white" alt="Risco Badge"/>
+  <img src="https://img-shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/>
+</p>
 
-Espero que possa aproveitar o conteúdo.
+## ✨ BEM-VINDO! A Revolução Digital no Setor Bancário
 
+A tecnologia tem sido a principal catalisadora de mudanças nos serviços das instituições financeiras. A **exploração avançada de dados** não é mais uma opção, mas sim uma necessidade estratégica para a tomada de decisões.
 
-### O que você pode encontar por aqui?
+Este repositório foi cuidadosamente construído para **analisar e validar hipóteses** em cenários críticos do setor financeiro, visando a melhoria contínua da experiência do consumidor, a mitigação de perdas e a otimização de recursos.
 
-Esse repositório contém projetos desenvolvidos especificamente para o setor bancário e suas aplicações tem o intuito de melhorar a experiancia dos consumidores através de uma análise detalhada dos dados históricos.
- 
-- Previsão de Churn | Clientes Banco   (Outubro 2021)
+Espero que possa aproveitar este conteúdo e as soluções de Machine Learning aqui propostas.
 
+---
 
-  -  Churn ou Taxa de Rotatividade, é um indicador calculado de acordo com o número de clientes que deixam sua empresa durante um determinado período. Esta métrica está diretamente relacionada a capacidade do seu negócio de manter clientes próximos e fiéis.
-Nesse sentido, quanto mais clientes a sua empresa perde, menos ela consegue crescer de forma sustentável. Pensando nisso esse projeto analisa possiveis evasões de clientes para que possamos agir previamente e rete-los.
+## 🔍 O que você pode encontrar por aqui?
 
-     [![](https://img.shields.io/badge/-Abrir_Projeto-5276f2)](https://github.com/Yasmcor/Projetos-setor-financeiro/blob/main/previs%C3%A3o_de_compra_e_commerce_svm.py)
+Este repositório contém projetos de **Data Science** e **Modelagem Preditiva** desenvolvidos especificamente para aplicações bancárias e financeiras, com o objetivo de gerar *insights* acionáveis a partir de dados históricos.
 
-- Detecção de cédulas falsificadas  (Dezembro 2021)
+---
 
-  - O recebimento de cédulas falsas é um problema real para as empresas. Todos os anos, o BC retém e tira de circulação centenas de milhares de cédulas falsificadas. Em 2019, foram quase 500 mil notas, que representavam cerca de R$ 32 milhões em “dinheiro” recolhido. Portanto, através deste modelo preditivo, é possivel identificar cédulas falsas e mitigar estes riscos.
+### 1. 📈 Previsão de Churn | Clientes Banco
 
- 
-       [![](https://img.shields.io/badge/-Abrir_Projeto-5276f2)](https://github.com/Yasmcor/Projetos-setor-financeiro/blob/main/Detec%C3%A7%C3%A3o%20de%20C%C3%A9dulas%20Falsificadas.py)
+<details>
+<summary><strong>Detalhes do Projeto (Outubro 2021)</strong></summary>
 
+**O Desafio:** Churn (ou Taxa de Rotatividade) é o número de clientes que deixam uma empresa em um período. Esta métrica está diretamente ligada à capacidade de crescimento sustentável. Quanto mais clientes a empresa perde, mais difícil é crescer.
 
-- Previsão de compra no E-commerce (Janeiro 2022)
+**A Solução:** Este projeto analisa o comportamento histórico e características dos clientes para construir um modelo preditivo capaz de **identificar possíveis evasões** de clientes. Com essa informação, as equipes de relacionamento e marketing podem agir **previamente** com ofertas ou suporte para reter esses clientes de alto risco de saída.
 
-  - Na prática empresarial pode-se perceber uma nítida carência de uma análise consistente para a alocação de recursos em Marketing, o que leva a um conservadorismo na maneira como as empresas dividem o orçamento entre suas diferentes marcas, regiões e clientes.
-Otimizar essa alocação é uma tarefa complexa porque os insumos são muitos, e aproveitá-los bem exige pensar na aplicação de todos de forma que a empresa consiga fazer mais com menos.
+**Técnicas Chave:** Classificação, Análise de Recurso, Matriz de Confusão.
 
- 
- 
-       [![](https://img.shields.io/badge/-Abrir_Projeto-5276f2)]()
-   
-<div>
- 
-#### Linguagem utilizada nos projetos:
-[![](https://img.shields.io/badge/-Python-14354C)]()
-</div>
+</details>
+
+### 2. 💸 Detecção de Cédulas Falsificadas
+
+<details>
+<summary><strong>Detalhes do Projeto (Dezembro 2021)</strong></summary>
+
+**O Desafio:** O recebimento de cédulas falsas é um risco operacional real. Anualmente, o Banco Central retém e retira de circulação milhões de reais em notas falsificadas. Esse risco impacta diretamente empresas e caixas eletrônicos.
+
+**A Solução:** Através da análise de **recursos visuais e estatísticos** de amostras de cédulas legítimas e falsas, foi desenvolvido um modelo preditivo robusto. O objetivo é criar uma ferramenta que possa, na prática, **identificar cédulas falsas** e, assim, mitigar perdas financeiras e operacionais.
+
+**Técnicas Chave:** Classificação, Feature Engineering, Validação de Modelo.
+
+</details>
+
+### 3. 🛒 Previsão de Compra no E-commerce Financeiro
+
+<details>
+<summary><strong>Detalhes do Projeto (Janeiro 2022)</strong></summary>
+
+**O Desafio:** No cenário corporativo, a alocação de recursos em Marketing muitas vezes carece de análise consistente, levando a um conservadorismo na divisão de orçamento. Otimizar esse investimento é complexo, mas crucial para fazer mais com menos.
+
+**A Solução:** Este projeto foca na **modelagem da intenção de compra**. Ao prever quais clientes de um ecossistema de E-commerce têm maior probabilidade de realizar uma transação, é possível **otimizar a alocação de recursos** de marketing e publicidade, focando nas audiências com maior potencial de conversão.
+
+**Técnicas Chave:** Análise de Propensão, Modelos de Regressão Logística/Classificação, Otimização de ROI.
+
+</details>
+
+---
+
+## 🛠️ Tecnologias Utilizadas
+
+A espinha dorsal de todos os projetos é a linguagem Python e seu ecossistema:
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/>
+  <img src="https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Badge"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas Badge"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy Badge"/>
+  <img src="https://img.shields.io/badge/Matplotlib-3E4F63?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib Badge"/>
+  <img src="https://img.shields.io/badge/Seaborn-4D88AE?style=for-the-badge&logo=seaborn&logoColor=white" alt="Seaborn Badge"/>
+</p>
+
+---
+
+## 💡 Próximos Passos & Contribuições
+
+Este repositório está em constante evolução. Futuras melhorias incluem:
+
+* [ ] Adição de projetos de **Previsão de Crédito (Credit Scoring)**.
+* [ ] Implementação de visualizações interativas com `Plotly/Dash`.
+* [ ] Refatoração dos códigos para aderir aos padrões `PEP8`.
+
+Fico aberto a *feedback* e discussões sobre o tema!
+
+***
+*Feito com 🧠 e ☕ por [Yasmin Correia/yasmcor]*
