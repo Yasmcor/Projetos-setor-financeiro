@@ -1,8 +1,4 @@
 # Projetos para o setor financeiro
-<div>
-<img width=400, hitgh=600 src="https://elguardian.cr/wp-content/uploads/2021/04/bancos-clientes.jpg">
-</div>
-
 ### BEM-VINDO!
 # 🏦 Data Science & Machine Learning para o Setor Financeiro
 
@@ -10,7 +6,7 @@
   <img src="https://img.shields.io/badge/FinTech-003366?style=for-the-badge&logo=cashapp&logoColor=white" alt="FinTech Badge"/>
   <img src="https://img.shields.io/badge/Machine%20Learning-FFB700?style=for-the-badge&logo=scikit-learn&logoColor=black" alt="ML Badge"/>
   <img src="https://img.shields.io/badge/Risco%20&%20Fraude-DC143C?style=for-the-badge&logo=secure-shell&logoColor=white" alt="Risco Badge"/>
-  <img src="https://img-shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/>
 </p>
 
 ## ✨ BEM-VINDO! A Revolução Digital no Setor Bancário
