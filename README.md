@@ -81,15 +81,5 @@ A espinha dorsal de todos os projetos é a linguagem Python e seu ecossistema:
 
 ---
 
-## 💡 Próximos Passos & Contribuições
-
-Este repositório está em constante evolução. Futuras melhorias incluem:
-
-* [ ] Adição de projetos de **Previsão de Crédito (Credit Scoring)**.
-* [ ] Implementação de visualizações interativas com `Plotly/Dash`.
-* [ ] Refatoração dos códigos para aderir aos padrões `PEP8`.
-
-Fico aberto a *feedback* e discussões sobre o tema!
-
 ***
 *Feito com 🧠 e ☕ por [Yasmin Correia/yasmcor]*
